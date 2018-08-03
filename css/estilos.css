@@ -1,0 +1,30 @@
+body
+{ background-color: gray;	
+}
+h1{
+	text-align: center;
+}
+/* aplicando el mismo 
+estilo a p y a code */
+p,code,s,strike,del {
+	/* tamaño de la fuente */
+	font-size: 72px;
+}
+em{
+	color: #CD2F2F;
+	font-size: 64px;
+}
+.cur2{
+	color: #184CF5;
+	font-size:64px;
+}
+.cur1{
+	/* propiedad de fondo */
+	background-color: #3EF00E;
+	font-size: 72px;
+}
+p em{
+	color: #E3F00D;
+}
+
+
